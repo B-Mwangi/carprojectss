@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-       
+
      <link  rel="stylesheet" href="styles.css" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
     </head>
@@ -69,6 +69,8 @@
                         $('#search_list').html(data);
                     }
              });
+
+
 
             });
             });
